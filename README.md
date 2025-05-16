@@ -71,7 +71,7 @@ In real‑world testing, Github‑Snapshot‑Extractor fetched metadata from ove
    Contributing
    Feel free to:
 
-Fork the project.
+## Fork the project.
 
 Create a topic branch (git checkout -b feature/your-feature).
 
@@ -79,7 +79,7 @@ Commit your changes.
 
 Open a pull request—and let’s make this tool even better!
 
-Gratitude
+## Gratitude
 Big thanks to:
 
 UIC Alumni for their mentorship and career guidance.
